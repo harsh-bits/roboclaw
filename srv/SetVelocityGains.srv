@@ -1,0 +1,8 @@
+# Service to set PD gains
+float64 Kp1
+float64 Kd1
+float64 Kp2
+float64 Kd2
+---
+int64 ret
+string msg

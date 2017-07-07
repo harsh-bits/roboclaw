@@ -1,0 +1,8 @@
+#service constants
+uint8 NONE=0
+uint8 POS = 0
+uint8 VEL = 1
+uint8 CUR = 2
+--
+int64 ret
+string msg

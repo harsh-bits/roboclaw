@@ -1,0 +1,5 @@
+#Service to reset all encoders to zero
+
+--- 
+int64 ret
+string msg

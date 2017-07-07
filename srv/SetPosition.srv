@@ -1,0 +1,7 @@
+# Service to Set Cartesians
+float64 x
+float64 y
+uint8 frameId	# which frame to use?
+---
+int64 ret
+string msg

@@ -1,0 +1,8 @@
+#Service to set current set-points
+
+float64 ix
+float64 iy
+
+---
+int64 ret
+string msg
